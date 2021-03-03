@@ -5,9 +5,9 @@ Its a private and public cloud platform
 
 ## How does Azure work behind the scenes?
 - Azure uses virtualization 
-- behind the scenes, virtualization separates the hardware and operating system using an abstraction layer called hypervisor which  emulates all the funcations of a real computer and the CPU in a virtual machine and it can run multiple virtual machines at the same time and optimize the capacity of the extracted hardware and each virtual machine can run any compaitble operating system such as  run windows and linux 
-- azures takes this technology on a global scale and has data centers all around the world . Data centers have racks of servers, and  each server includes a hypervisor to run multiple virtual machines.  network switch provides connectivity to all those servers and one server n each rack runs a fabric controller 
-- one server in each rac runs a fabric conroller which is connected to the orchrastor which is responsible for everything that happen in azure including responding to user requests, where users create request through the orchrasterors web API, and the web api can be called by mini tools including the user interface of the azure portal  
+- Behind the scenes, virtualization separates the hardware and operating system using an abstraction layer called hypervisor which  emulates all the funcations of a real computer and the CPU in a virtual machine and it can run multiple virtual machines at the same time and optimize the capacity of the extracted hardware and each virtual machine can run any compaitble operating system such as  run windows and linux 
+- Azures takes this technology on a global scale and has data centers all around the world . Data centers have racks of servers, and  each server includes a hypervisor to run multiple virtual machines.  network switch provides connectivity to all those servers and one server n each rack runs a fabric controller 
+- One server in each rac runs a fabric conroller which is connected to the orchrastor which is responsible for everything that happen in azure including responding to user requests, where users create request through the orchrasterors web API, and the web api can be called by mini tools including the user interface of the azure portal  
 - In the request, in the portal goes through the API, then the orchestrator where it packages everythingt thats needed, takes the best server rack then sends the request then into the fabric controller
 - once the fabric controller creates the virtual machine, the user can connect to it 
 
