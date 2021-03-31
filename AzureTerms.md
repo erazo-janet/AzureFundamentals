@@ -1,2 +1,45 @@
 # Terms
 Here are the terms I transitioned into flash cards and memorized them for the exam! 
+- High Avaliability
+- Fault Tolerance
+- Disaser Discover
+- Scalability
+- Elasticity
+- Consumption Based Model
+- CapEx
+- OpEx
+-IaaS
+- PaaS
+- SaaS
+- Public Cloud
+- Private Cloud
+- Hybrid Cloud 
+- Regions
+- Region Pairs
+- Avaliability Zones
+- Resource Groups 
+- Subscriptions
+- Management Groups
+- Azure Resource Manaer
+- Azure Resources
+- Virtual Machine
+- Windows Virtual Desktop
+- Virtual Networks
+- VPN Gateway
+- Virtual Netowrk Peering
+- ExpressRoute
+- Internet of Things (IoT) Hub
+- Internet of Things (IoT) Central
+- Azure Sphere 
+- Azure Machine Learning
+- Cognitive Services
+- Azure Bot Service
+- Azure Portal
+- Azure PowerShell
+- Azure CLI
+- Azure Mobile App
+- Azure Advisor
+- Azure Resource Manager (ARM) Templates
+- Azure Monitor
+- Azure Service Health
+- Serverless Computing 
