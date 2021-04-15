@@ -43,3 +43,80 @@ Here are the terms I transitioned into flash cards and memorized them for the ex
 - Azure Monitor
 - Azure Service Health
 - Serverless Computing 
+- Azure Bot Service
+- Azure Cognitive Services
+- Azure Machine Learning
+- Azure Cosmos DB
+- Azure Active Directory
+- Multi Factor Authetication
+- Single Sign on
+- Authetication vs Authorization
+- RBAC
+- Tags
+- Azure Policy
+- Azure Blueprints
+- Conditional Access
+- Defense in Depth
+- Trust Center
+- Compliance
+- Privacy Statement
+- Cloud Adpotion Framework
+- TCO Calculator
+- Pricing Calculator
+- Azure Cost Mgmt
+- Azure Advisor
+- Secure Score
+- Azure Synapse Analytics
+- Azure HD Insights
+- Azure Databricks
+- Azure DevOps
+- Azure DevTest Labs
+- Azure Resource Manager Templates (ARM)
+- Azure Powershell + CLI
+- Azure Logic Apps
+- Azure Functions
+- Network Security Groups
+- Azure Security Center
+- Azure Dedicated Host
+- Azure Sentinel
+- Key Vault
+- Security Posture
+- DDoS Protection
+- Azure Firewall
+- Azure Service Health
+- Azure Monitor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
