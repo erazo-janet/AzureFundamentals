@@ -8,9 +8,9 @@ Here are the terms I transitioned into flash cards and memorized them for the ex
 - Consumption Based Model
 - CapEx
 - OpEx
--IaaS
-- PaaS
-- SaaS
+-IaaS - Infrastructure as a Service
+- PaaS - Platform as a Service
+- SaaS - Software as a Service
 - Public Cloud
 - Private Cloud
 - Hybrid Cloud 
