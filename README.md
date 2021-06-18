@@ -1,8 +1,8 @@
 # Azure Fundamentals
 This repository is for all the information I studied regarding the AZ-900 Certification. 
 
-If you are new to learning about the cloud, welcome! You can find more information on cloud computing [here.]
-There are many cloud computing services avalaible - Azure is a cloud computing service by Microsoft. It is used for creating, testing, managing, and deploying applications. You can find more on Azure and how it works [here!] The Azure Fundamentals Exam (AZ-900) is for all technical and non-technial users who are new to cloud based solutions, or new to Azure.
+If you are new to learning about the cloud, welcome! You can find more information on cloud computing [here.](https://github.com/erazo-janet/AzureFundamentals/blob/main/CloudBasics.md)
+There are many cloud computing services avalaible - Azure is a cloud computing service by Microsoft. It is used for creating, testing, managing, and deploying applications. You can find more on Azure and how it works [here!](https://github.com/erazo-janet/AzureFundamentals/blob/main/IntroToAzure.md) The Azure Fundamentals Exam (AZ-900) is for all technical and non-technial users who are new to cloud based solutions, or new to Azure.
 
 Resources Used to study for the exam: 
   - Microsoft Learning Paths & Webinars
