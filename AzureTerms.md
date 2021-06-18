@@ -15,7 +15,7 @@ Here are the terms I transitioned into flash cards and memorized them for the ex
 - Public Cloud - Companies use this model when they decide they want to use all their servers from the cloud providers data center
 - Private Cloud - Companies use this model when they decide they want to use all their servers in their own data center to replicate cloud servers
 - Hybrid Cloud - Companies use this model when they want to have some servers in their own data center, and some servers on the public cloud
-- Regions
+- Regions - A region is a collection of datacenters. Theres an average of 16 datacenters per region. When configuring your cloud system, you can choose the region closest to your users
 - Region Pairs - Each Azure region is paired with another region. Azure prefers at least 300 miles of seperation. Services provide automatic replication to the paired region. System updates are rolled out to region pairs sequentially, not at the same time 
 - Avaliability Zones
 - Resource Groups - A collection of resources. Every resource must exist in one (and only one!) resource group. The resources can be from multiple region. Deleting a resource group deletes all resources in that group. Use Locks to prevent this
