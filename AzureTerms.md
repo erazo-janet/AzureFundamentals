@@ -1,19 +1,20 @@
 # Terms
 Here are the terms I transitioned into flash cards and memorized them for the exam! 
-- High Avaliability
-- Fault Tolerance
-- Disaser Discover
-- Scalability
-- Elasticity
-- Consumption Based Model
-- CapEx
-- OpEx
--IaaS - Infrastructure as a Service
-- PaaS - Platform as a Service
-- SaaS - Software as a Service
-- Public Cloud
-- Private Cloud
-- Hybrid Cloud 
+- High Avaliability - Data stored in the cloud are copied to more than one data center. If anything happens to one data center, the data can be recovered from another data center
+- Fault Tolerance - If a computer system or technology infrastructure component fails (hardware or software), a backup component takes over. That way, if there is a fault in the application or system, the service can continue to work
+- Disaser Discover- Data in the cloud gets copied to other regions. If there is a disaster in one region and every data center in that region goes down, a data center in another region will still have a copy of that data. For example, if the West US data centers goes down, the East US data centers will be able to recover the data
+- Scalability - This allows cloud users to expand or decrease an applications size based on the number of users in the system. You can increase the workload on a current resource (Scaling up) or decrease the workload in the resource (Scaling down)
+- Elasticity - This allows cloud users to expand multiple applications/resources running in the cloud when there are many users in the system (Scaling out) or remove resources when there are fewer users in the system (scaling in)
+- Consumption Based Model - Cloud users oay for what they need, by the duration they need
+- Economies of Scale - The cloud is a shared pool of machines and services. As the number of customers grow, cloud providers can lower their cost or increast the quality of their servers
+- CapEx - The cost of spending physical infrastructure upfront. You also have to deduct the expense from your tax bill. The value of investment for physical infrastructure reduces over time
+- OpEx - The cost of spending on servers as needed from the cloud. You will get billed immediately, and there is no upfront cost. With cloud services, you pay as you go.
+-IaaS - Infrastructure as a Service: Azure takes care of the physcial infrastrucutre like data center seurity, hardware repair, etc. With IaaS, users take care of their servers and maintenance, such as the operating system, the configuration, backups, and more 
+- PaaS - Platform as a Service: Azure takes care of the servers, and cloud users only need to bring in application code or data
+- SaaS - Software as a Service: Azure takes care of the server and code. Cloud users only need to configure the software to suit their needs
+- Public Cloud - Companies use this model when they decide they want to use all their servers from the cloud providers data center
+- Private Cloud - Companies use this model when they decide they want to use all their servers in their own data center to replicate cloud servers
+- Hybrid Cloud - Companies use this model when they want to have some servers in their own data center, and some servers on the public cloud
 - Regions
 - Region Pairs - Each Azure region is paired with another region. Azure prefers at least 300 miles of seperation. Services provide automatic replication to the paired region. System updates are rolled out to region pairs sequentially, not at the same time 
 - Avaliability Zones
