@@ -8,4 +8,4 @@ Resources Used to study for the exam:
    - Exam Topics
       - [You can sign up for a free account](Examtopics.com) and go through example test questions with an explaination to each answer. There are over 200 questions to study!
  - Terms
-    - You can view all the terms I studied and the definitions here 
+    - You can view all the terms I studied and the definitions [here](https://github.com/erazo-janet/AzureFundamentals/blob/main/AzureTerms.md) 
