@@ -21,46 +21,44 @@ Here are the terms I transitioned into flash cards and memorized them for the ex
 - Resource Groups - A collection of resources. Every resource must exist in one (and only one!) resource group. The resources can be from multiple region. Deleting a resource group deletes all resources in that group. Use Locks to prevent this
 - Subscriptions
 - Management Groups - Helps you manage access, policy, compliance and more for multiple subscriptions. Alll subscriptions in a Management Group inherit conditions applied to the MG, and 10,000 MG can be supported in a single directory. Hierarchy is: Management group > Subscriptions > Resource Groups > Resources
-- Azure Resource Manaer
+- Azure Resource Manager
 - Azure Resources
-- Virtual Machine
-- Windows Virtual Desktop
-- Virtual Networks
-- VPN Gateway
+- Virtual Machine - Solution to a lack of physical servers. You can create a virtual machine in the cloud and you customize all the software running on the VM. This is a good choice when you need to take control of the operating system, have the ability to run custom software, and use custom hosting configurations 
+- Windows Virtual Desktop - Desktop virtualization enviroment where you can virtualize 365 apps, manage windows 7, 10 and server in one place
+- Virtual Networks - Enables Azure resources like VMs, web apps, etc to communicate with each other, with users on the internet, and with on premis computers
+- VPN Gateway - Lets you send encrypted traffic between an Azure virtual netrowkr and an on-premis location over the public internet. Each virtual network can only have ONE VPN Gateway
 - Virtual Netowrk Peering
 - ExpressRoute
 - Internet of Things (IoT) Hub
 - Internet of Things (IoT) Central
 - Azure Sphere 
-- Azure Machine Learning
-- Cognitive Services
-- Azure Bot Service
-- Azure Portal
-- Azure PowerShell
-- Azure CLI
-- Azure Mobile App
+- Azure Machine Learning - A data science technique that uses existing data to train a model, test it, and then apply the model to new data to predict future behaviors and outcomes 
+- Azure Cognitive Services - Provides built in machine learning models that enables apps to see, hear, speak, underand and reason. It can understand images, videos, audio, and translate text
+- Azure Bot Service -Lets you crete virtual agents that understands and replies to questions like a human. Used often when building a virtual agent that interfaces with humans via natural language 
+- Azure Portal - Azures site to access every feature of Azure
+- Azure PowerShell - Developers use this to execute commands called cmdlets where the command calls the Rest API to perform a task in Azure
+- Azure CLI - linux bash. Run commands alone or grouped in a script
+- Azure Mobile App - iOS and Android access to your resources. You can monitor health and status of resources, check for alerts, restart web app or VM, run CLI/Powershell commands, and more
 - Azure Advisor
-- Azure Resource Manager (ARM) Templates
+- Azure Resource Manager (ARM) Templates - Instead of using CLI or powershell to set up and tear down resources, use ARM templates to define what you want in JSON. The benefit is the entire template is verified before any code is executed to ensure code will work
 - Azure Monitor
 - Azure Service Health
 - Serverless Computing 
-- Azure Bot Service
-- Azure Cognitive Services
 - Azure Machine Learning
 - Azure Cosmos DB
 - Azure Active Directory
 - Multi Factor Authetication
 - Single Sign on
 - Authetication vs Authorization
-- RBAC
-- Tags
-- Azure Policy
-- Azure Blueprints
-- Conditional Access
-- Defense in Depth
-- Trust Center
-- Compliance
-- Privacy Statement
+- RBAC - Role Bases Access Control: It is applied to a scope, which is a resource or set of resources that access appplies to. You can apply RBAC to a person or a group
+- Tags -Organize resources by adding labels
+- Azure Policy - Lets you create, assign and manage policies that control or audit your resources
+- Azure Blueprints - Instead of creating policies for each subscription, blueprints lets you create a set. You can create and deploy various templates like role assignments, policy assignments and resouce mgr templates
+- Conditional Access - A tool Azure Active Directory uses to allow or deny access to the resources based on identifyig signals. The signals include who the user is, where they are, and what device is used. This is more granular than MFA. 
+- Defense in Depth - Protect info and prevent it from being stolen by those who are not authorized to access it
+- Trust Center - showcases Microsoft principles for maintaining data integrity in the cloud and how Microsoft implements security, privacy, compliance and transparency
+- Compliance - Ensuring a company follows the laws that governing bodies enforce. There are 4 global offereings for compliance: Global, US Gov, Industry, Regional
+- Privacy Statement - Explains what Microsoft colects, what they use it for and the purpose
 - Cloud Adpotion Framework - Implement the cloud with these steps: Define your strategy, Make a Plan, Ready your organization, Adopt the Cloud, Govern and Manage your cloud enviroment 
 - TCO Calculator - Total Cost of Ownership. This calculator can be used to see how much you will need to spend if you are building the same infrastructure in your own data center
 - Pricing Calculator -This website can be used by anyone that would like to plan their costs before moving to the Azure Cloud
@@ -86,8 +84,6 @@ Here are the terms I transitioned into flash cards and memorized them for the ex
 - Azure Firewall
 - Azure Service Health
 - Azure Monitor 
-- Privacy Statement - this explains what Microsoft collects, what they use it for and the purpose
-
 
 
 
